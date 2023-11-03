@@ -1,0 +1,13 @@
+# SITE SETTINGS 
+title: Sverre Nystad
+description: "I'm Sverre Nystad, a passionate software developer. I love programming. Explore my portfolio to learn more about my work."
+url: https://sverrenystad.github.io
+
+# SOCIAL NETWORKS 
+social:
+  - title: envelope
+    url: mailto:sverrenystad@gmail.com
+  - title: github
+    url: http://github.com/SverreNystad
+  - title: linkedin
+    url: https://www.linkedin.com/in/sverre-nystad/
