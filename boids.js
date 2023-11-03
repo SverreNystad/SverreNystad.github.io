@@ -106,7 +106,7 @@ class Boid {
 
         // Limit velocity
         const speed = Math.hypot(this.velocity.x, this.velocity.y);
-        const maxSpeed = 3;
+        const maxSpeed = 2;
         if (speed > maxSpeed) {
             this.velocity.x = (this.velocity.x / speed) * maxSpeed;
             this.velocity.y = (this.velocity.y / speed) * maxSpeed;
